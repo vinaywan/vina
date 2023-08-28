@@ -25,7 +25,6 @@ public class BookDetailsProcessor implements ItemProcessor<String, String> {
 		
 		return bookWithTitle;
 	}
-	String name="vinay";
-	System.out.println(name);
+	
 
 }
